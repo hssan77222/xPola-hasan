@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:60,60020_.m3u8
+#EXTVLCOPT:network-caching=1000
+http://gomderyw.tutor3.site/live/60020_.m3u8
